@@ -5,3 +5,4 @@ uvicorn
 sqlalchemy[asyncpg]
 advanced-alchemy
 asyncpg
+dishka
